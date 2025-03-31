@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=RuXo5HORZ2o&ab_channel=FinePointCGI
 # Godot Octahedral Impostors
 
 Simple implementation of octahedral impostors in Godot. Inspired by [shaderbits article](https://www.shaderbits.com/blog/octahedral-impostors) and this [Unity implementation](https://github.com/xraxra/IMP).
